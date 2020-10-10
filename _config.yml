@@ -1,4 +1,9 @@
 theme: jekyll-theme-minimal
-header_pages:
-  about.md
 title: "My awesome title"
+logo:  /assets/img/logo.jpg
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      layout: "default"
