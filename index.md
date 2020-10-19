@@ -61,26 +61,25 @@ What is Linux? I did not know. I used it for a year, but, as a true script-kiddi
 And again, I discovered a lot of new things. For example, I learned how to set up awesome,
 certainly not like in [UnixPorn](https://www.reddit.com/r/unixporn/), but I enjoyed the
 process. When I got used to it, my friend suggested that it would be nice if I knew the 
-Linux system at a lower level. And offered a choice between Gentoo and Crux. "I use Crux, 
-if you choose it, I can help you. If you choose Gentoo, you will figure it out by
+Linux system at a lower level. And offered a choice between Gentoo and Crux. "I use Crux. 
+If you choose it, I can help you. If you choose Gentoo, you will figure it out by
 yourself." he said. 
 
-This turned out to be another chance to prove that I wasn't make with a finger and I worth
-something. After all, to understand something is not the same as to create. Someone has 
-already done everything before you. "If there is logic, I'll understand it" - I said and 
-chose Gentoo.
+This turned out to be another chance to prove that I worth something. After all, to 
+understand is not the same as to create. Someone has already done everything 
+before you. "If there is logic, I'll understand it." - I said and chose Gentoo.
 
 I read the handbook and blindly followed the instructions. As always in such cases, there 
-were cries of joy when something worked out, and universal despair when not. It was more
-difficult to deal with the settings. For example, I set up the touchpad for 2 days.
-I rummaged all the Internet in search of the solution. On the second day, my friend came up and pressed 'Fn+F7' and it worked. There were many such situations, I didn't remember all 
-of them. The devil is hidden in the little things. Due to my inexperience, I couldn't know 
-about them in any way.
+were cries of joy when something worked out and worth of misery when not. The hardest thing was to deal with the settings. For example, I set up the touchpad for two days.
+I rummaged all the Internet in search of the solution. On the second day, my friend came up 
+to me and pressed 'Fn+F7', and it worked. There were many such situations. I didn't 
+remember all of them. The devil is in the details. Due to my inexperience, I 
+couldn't know about them in any way.
 
-I began to read the instructions more carefully, because everything was there from the very
+I began to read the instructions more carefully because everything was there from the very
 beginning. I found out that any problem has steps to solve, and someone smart has already 
-written it. And also, a correctly asked question contains the answer. Since the initial 
-view of Gentoo is "naked", I hated the pages where they offered to solve my problem by 
-putting a tick in the indicated menu window. Hey, I'm trying to start Xs! What the hell is 
-the menu?! Give me the answer in console version! And yes, I loved the minimalism of the 
-console. 
+written about it. And also, the correct question raised contains the answer. Since the 
+initial view of Gentoo is naked' - I hated the pages where they offered to solve my problem 
+by putting a tick in the indicated menu window. Hey, I'm trying to start Xs here! What the 
+hell is a menu?! Give me the answer in the console version! And yes, I loved the minimalism 
+of the console. 
