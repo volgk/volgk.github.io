@@ -78,8 +78,27 @@ couldn't know about them in any way.
 
 I began to read the instructions more carefully because everything was there from the very
 beginning. I found out that any problem has steps to solve, and someone smart has already 
-written about it. And also, the correct question raised contains the answer. Since the 
-initial view of Gentoo is naked' - I hated the pages where they offered to solve my problem 
-by putting a tick in the indicated menu window. Hey, I'm trying to start Xs here! What the 
-hell is a menu?! Give me the answer in the console version! And yes, I loved the minimalism 
-of the console. 
+written about it. And also, the correct question raised contains the answer.
+
+Since the initial view of Gentoo is 'naked' - I hated the pages where they offered to solve 
+my problem by putting a tick in the indicated menu window. Hey, I'm trying to start Xs 
+here! What the hell is a menu?! Give me the answer in the console version! And yes, I loved 
+the minimalism of the console. It is neat and beautiful, especially when I change 
+everything how I like and work for my own pleasure. Until now, fiddling with the appearance 
+of the system takes me a week. Can't pick a color or something like that.
+
+So, studying the unknown, I came across packages. What it was, I vaguely imagined. But 
+where they come from, and why they are? I didn't ask such questions. My friend asked me. 
+And I thought about it. I remembered how many times I needed a utility and it was 
+not there. Or how many times the build of package broke. How to fix it then? And if you fix 
+it, how to let the other know about the fix? So I grew up to packages and patches. 
+I've grown up to read about them, of course.
+
+The first impulse was to see how it works in Gentoo. For comparison, my friend suggested 
+looking at Slackware and Crux's packages. Nerds, I thought, trying to understand 
+something in SlackBuilds. It was beautiful, but not for me - a newbie. In Gentoo it was 
+easier. I tried to build something independently, but alas, no place for miracle. Crux 
+amazed me with his simplicity, not only in packages but in everything. It became so easy to 
+read configs and to UNDERSTAND them. We (my friend and I) compared the rc-scripts for 
+dhcpcd in Gentoo and Crux. The favorite was obvious. And it was also obvious that my OS 
+would change again. I'm so impetuous. Probably because I'm a girl.
