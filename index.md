@@ -102,3 +102,13 @@ amazed me with his simplicity, not only in packages but in everything. It became
 read configs and to UNDERSTAND them. We (my friend and I) compared the rc-scripts for 
 dhcpcd in Gentoo and Crux. The favorite was obvious. And it was also obvious that my OS 
 would change again. I'm so impetuous. Probably because I'm a girl.
+
+As always in my case, going to Crux, I did not learn how to install it. Not the first time 
+for sure. Just like in other cases, when I undertook to study something, I mastered
+different things from what has planned. At my disposal was a little Crux 
+handbook, a wonderful one must say. Many things, obvious for somebody, have been overlooked 
+as that everyone already knows. But not me. All Linux forums have become my best friends. 
+Gentoo, Pentoo, Void Linux, Arch Linux, Ubuntu, Kali Linux. I learned to collect 
+information regardless of the source and dispose of it according to my needs. For example, 
+I was pleasantly surprised by the [Ubuntu Sound Troubleshooting](https://help.ubuntu.com/community/SoundTroubleshootingProcedure). Although who would have guessed such a detailed 
+instruction in Ubuntu? And no screenshots or checkmarks!
