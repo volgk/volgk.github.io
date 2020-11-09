@@ -3,9 +3,11 @@
 So, my favorite thing to do is to eat. And, as you know, it's not the most profitable
 occupation, but quite the opposite. So I decided to go to IT. And this is what happened.
 
+
 # Chapter I
 
 I knew nothing about computers or programs. My limit was to run in Windows the error recovery. When I first saw the terminal, I thought it was magic. I wanted to be a magician too. So I start with Ubuntu and Python.
+
 
 ## [mich](https://github.com/volgk/mich)
 
@@ -20,6 +22,7 @@ I wrote mich for two months. I've learned a lot of new things. For example, abou
 I tempered my ardor. It was not what I expected. Where is the magic? What I wanted was tap-tap-tap on the keyboard and voila, a beautiful working program. I was naive and stupid.
 
 But! But. I realized that no matter how much I know, this will always be not enough. It's not bad too.
+
 
 ## [qrot](https://github.com/non-yellow-spot/qrot)
 
@@ -42,7 +45,9 @@ attempt.
 
 Going forward, I will mention that now, I use Python as an auxiliary tool in achieving various goals such as wireless pentesting. [There](https://github.com/volgk/handy_scrips) are a couple of Python scripts.
 
+
 # Chapter II
+
 
 ## Switching: Ethical hacking and Linux
 
@@ -55,6 +60,7 @@ Okay, I get it. I closed the tab and started reading about the "OWASP Top Ten Se
 It was me, each word was about me. I was like a monkey with a grenade, threw requests to
 everything that accepts them. Since I learned to send requests from Python... I understood that I need to dig deeper, but I could not know how deep. I was afraid to get lost in the abundance of information, and as a result, to know what is not useful.
 
+
 ## Void Linux
 
 I realized that my tactics were initially wrong. So I decided to start from the beginning:
@@ -66,6 +72,7 @@ process. When I got used to it, my friend suggested that it would be nice if I k
 Linux system at a lower level. And offered a choice between Gentoo and Crux. "I use Crux. 
 If you choose it, I can help you. If you choose Gentoo, you will figure it out by
 yourself." he said. 
+
 
 ## Gentoo
 
@@ -98,6 +105,7 @@ not there. Or how many times the build of package broke. How to fix it then? And
 it, how to let the other know about the fix? So I grew up to packages and patches. 
 I've grown up to read about them, of course.
 
+
 ## Crux
 
 The first impulse was to see how it works in Gentoo. For comparison, my friend suggested 
@@ -122,8 +130,32 @@ instruction in Ubuntu? And no screenshots or checkmarks!
 I'm steel on Crux and I love it. During all these changes, I continued to study ethical hacking.
 Since Crux is synonymous with minimalism and isn't made for pentest, I learned to port
 cyber-friendly packages. Together with my friend support a repository [here](https://github.com/non-yellow-spot/vccrux).
-As for the pentest, I've done all the easy tasks from hacker101 CTF.
+As for the pentest, I've done all the easy tasks from hacker101 CTF. Cool, yeah?
 
 ![Cool, yeah?](assets/img/cool.jpg)
 
 
+# Chapter III
+
+
+## [The road to Kali Nethunter] (https://github.com/volgk/The-road-to-Kali-Nethunter)
+
+Then one day, my phone broke.
+
+Actually, it all started when I lost it. But fools are lucky, so a day later a good woman founded
+and returned it to me. Until then, I've been keeping track of plains to prevent such situations.
+By opening a remote access to my phone, of course! So when I got it back, started looking for a way
+to do it. 
+
+It was unexpected to find out that I'm not a root in my phone (thank God I already knew what root
+was). Thus the task to root it. There was a lot of information, so I quickly figured it out. I
+realized it's a lot of work here and not that simple. For example: How to flush a ZIP file on phone?
+Without complete understanding what I'm doing (as always), I was following steps from different instructions. So the phone broke.
+
+If memory serves, I uploaded the wrong file to the wrong partition. And I was almost sad. My friend
+was excited. "You had nothing to lose, so experiment" - he said. And I tried everything I've found.
+It was long few days of continuous failure. And I would give up after the first day, but I wanted a
+working phone. I guess that's what made me go over the habit of dropping the case halfway. And I
+brought him back to life! That was so wonderful because I did it myself. My always helping friend
+was poached (he knew as much as I did). My success has turned my head, not for long. An hour later I
+was bored. My friend suggested turning the telephone into a hackerphone.
