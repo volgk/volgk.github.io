@@ -118,3 +118,12 @@ Gentoo, Pentoo, Void Linux, Arch Linux, Ubuntu, Kali Linux. I learned to collect
 information regardless of the source and dispose of it according to my needs. For example, 
 I was pleasantly surprised by the [Ubuntu Sound Troubleshooting](https://help.ubuntu.com/community/SoundTroubleshootingProcedure). Although who would have guessed such a detailed 
 instruction in Ubuntu? And no screenshots or checkmarks!
+
+I'm steel on Crux and I love it. During all these changes, I continued to study ethical hacking.
+Since Crux is synonymous with minimalism and isn't made for pentest, I learned to port
+cyber-friendly packages. Together with my friend support a repository [here](https://github.com/non-yellow-spot/vccrux).
+As for the pentest, I've done all the easy tasks from hacker101 CTF.
+
+![Cool, yeah?](asset/img/cool.jpg)
+
+
