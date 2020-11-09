@@ -55,6 +55,8 @@ Okay, I get it. I closed the tab and started reading about the "OWASP Top Ten Se
 It was me, each word was about me. I was like a monkey with a grenade, threw requests to
 everything that accepts them. Since I learned to send requests from Python... I understood that I need to dig deeper, but I could not know how deep. I was afraid to get lost in the abundance of information, and as a result, to know what is not useful.
 
+## Void Linux
+
 I realized that my tactics were initially wrong. So I decided to start from the beginning:
 What is Linux? I did not know. I used it for a year, but, as a true script-kiddie, did not know how it works. I thought that people faster learn to swim already in the middle of the pool, so I switched to Void Linux. Of course, my friend helped me set everything up because I sat in front of a black terminal for a week and happily shouted when it turned out to change the font or the color of the letters. It was fun but looked pathetic.
 
@@ -64,6 +66,8 @@ process. When I got used to it, my friend suggested that it would be nice if I k
 Linux system at a lower level. And offered a choice between Gentoo and Crux. "I use Crux. 
 If you choose it, I can help you. If you choose Gentoo, you will figure it out by
 yourself." he said. 
+
+## Gentoo
 
 This turned out to be another chance to prove that I worth something. After all, to 
 understand is not the same as to create. Someone has already done everything 
@@ -93,6 +97,8 @@ And I thought about it. I remembered how many times I needed a utility and it wa
 not there. Or how many times the build of package broke. How to fix it then? And if you fix 
 it, how to let the other know about the fix? So I grew up to packages and patches. 
 I've grown up to read about them, of course.
+
+## Crux
 
 The first impulse was to see how it works in Gentoo. For comparison, my friend suggested 
 looking at Slackware and Crux's packages. Nerds, I thought, trying to understand 
