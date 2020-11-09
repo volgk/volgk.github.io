@@ -1,6 +1,6 @@
 theme: jekyll-theme-minimal
 title: "My awesome title"
-logo:  /assets/img/logo.jpg
+logo:  /assets/img/logo.png
 defaults:
   -
     scope:
