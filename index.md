@@ -157,5 +157,5 @@ was excited. "You had nothing to lose, so experiment" - he said. And I tried eve
 It was long few days of continuous failure. And I would give up after the first day, but I wanted a
 working phone. I guess that's what made me go over the habit of dropping the case halfway. And I
 brought him back to life! That was so wonderful because I did it myself. My always helping friend
-was poached (he knew as much as I did). My success has turned my head, not for long. An hour later I
+was helpless (he knew as much as I did). My success has turned my head, not for long. An hour later I
 was bored. My friend suggested turning the telephone into a hackerphone.
