@@ -124,6 +124,6 @@ Since Crux is synonymous with minimalism and isn't made for pentest, I learned t
 cyber-friendly packages. Together with my friend support a repository [here](https://github.com/non-yellow-spot/vccrux).
 As for the pentest, I've done all the easy tasks from hacker101 CTF.
 
-![Cool, yeah?](asset/img/cool.jpg)
+![Cool, yeah?](assets/img/cool.jpg)
 
 
