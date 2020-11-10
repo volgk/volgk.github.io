@@ -143,19 +143,30 @@ As for the pentest, I've done all the easy tasks from hacker101 CTF. Cool, yeah?
 Then one day, my phone broke.
 
 Actually, it all started when I lost it. But fools are lucky, so a day later a good woman founded
-and returned it to me. Until then, I've been keeping track of plains to prevent such situations.
-By opening a remote access to my phone, of course! So when I got it back, started looking for a way
+and returned it to me. Until then, I've been keeping track of plans to prevent such situations.
+By opening remote access to my phone, of course! So when I got it back, I started looking for a way
 to do it. 
 
 It was unexpected to find out that I'm not a root in my phone (thank God I already knew what root
-was). Thus the task to root it. There was a lot of information, so I quickly figured it out. I
-realized it's a lot of work here and not that simple. For example: How to flush a ZIP file on phone?
-Without complete understanding what I'm doing (as always), I was following steps from different instructions. So the phone broke.
+was). Thus the task was to root it. There was a lot of information, so I quickly figured it out -
+it's a hard work here and not that simple. For example: How to flush a ZIP file on the phone?
+I had no idea. Without a complete understanding of what I'm doing (as always), I was following steps from 
+different instructions. So to speak, there was no sign of trouble, but the phone broke.
 
-If memory serves, I uploaded the wrong file to the wrong partition. And I was almost sad. My friend
-was excited. "You had nothing to lose, so experiment" - he said. And I tried everything I've found.
-It was long few days of continuous failure. And I would give up after the first day, but I wanted a
+If memory serves, I uploaded the wrong file to the wrong partition. I was almost sad. My friend
+was jubilant. "You had nothing to lose now, so experiment" - he said. And I tried everything I've found.
+It was long few days of continuous failure. And I would give up after the first day, but I needed a
 working phone. I guess that's what made me go over the habit of dropping the case halfway. And I
-brought him back to life! That was so wonderful because I did it myself. My always helping friend
-was helpless (he knew as much as I did). My success has turned my head, not for long. An hour later I
-was bored. My friend suggested turning the telephone into a hackerphone.
+brought him back to life! That was so wonderful since I did it myself. My always helping friend
+was helpless (he knew as much as I did). My success has turned my head, but not for long. An hour later I
+was bored. My friend suggested turning the telephone into a hacker phone since I already know how to
+fix it.
+
+So began my journey to Kali NetHunter. Remembering all the problems I faced, I wrote down all my
+steps. Again, a lot was supposed to know when reading those instructions. It was hard to deepen of every 
+little thing by myself, so I decided to share my difficulties with noobs like me.
+I learned a lot of new. For example: about recovering partition and how
+to install it; the download mode and what it is intended for; the kernel of my phone is based on
+Linux (!), of course I learned to build a working one; learned how to flash kernels with different ways; 
+noted the similarity and the distinctions between phone Linux and PC Linux; learned to work with different 
+utilities: Heimdall, Odin, SDK-utils. It was an interesting two months.
