@@ -24,7 +24,7 @@ I tempered my ardor. It was not what I expected. Where is the magic? What I want
 But! But. I realized that no matter how much I know, this will always be not enough. It's not bad too.
 
 
-## [qrot](https://github.com/non-yellow-spot/qrot)
+## [qrot](https://github.com/volgk/qrot)
 
 A simple OSINT tool.
 ---
@@ -170,3 +170,66 @@ to install it; the download mode and what it is intended for; the kernel of my p
 Linux (!), of course I learned to build a working one; learned how to flash kernels with different ways; 
 noted the similarity and the distinctions between phone Linux and PC Linux; learned to work with different 
 utilities: Heimdall, Odin, SDK-utils. It was an interesting two months.
+
+# Chapter IV
+
+## The proper training: Hacking: the Art of Exploitation
+
+My path as a hacker was not very smooth (still is). I completed the easy tasks from hacker101 CTF
+but yielded to more difficult ones. I can found vulnerabilities, but I didn't know how to
+exploit them. So I decided to change my tactics.
+
+I found the book "Hacking: The art of exploitation" by Jon Erickson and began to study. [Here](https://
+github.com/volgk/hacking-the-art-of-exploitation) is the practical part of the book, where I performed 
+tasks and left my notes. But I didn't finish the book, for several reasons. 
+
+In the book, all practice was performed on some kind of dinosaur with 32-bit OS. I thought it would 
+be a challenge to learn hacking 32-bit computers in the 21st century. Also, I saw no problem in translating 
+all in today's 64-bit realities. As it turned out after two-three chapters, I was wrong. Much of 
+what is described, cannot be repeated on a conventionally modern machine since smart people have fixed it 
+all. For example, I had to disable the protection against stack overflows in the compiler to 
+simulate the vulnerability, and my exploitable code worked "as it should".
+
+Another problem was the critical lack of knowledge about computer memory and what goes on there. All
+these "little-endian", registers (which differ at least in name from those on 32-bit machines) and
+stacks drove me crazy.
+
+Then the problem of not knowing the C language surfaced. At first, it was not difficult to understand
+what was going on in the code. But as the program became more complex, I caught myself on the fact
+that I did not understand what I was writing and executing.
+
+From all of the above, a logical course of events followed: I did not succeed in much. If you
+follow my notes, you can track the exponential growth of my despair. I slowly realized that a lot is
+passing me by just because I haven't grown up to such books. So I admitted defeat in front of this
+book and started looking for something for dummies. I didn't delete the book repository because ...
+shame on me - that's why. And nothing motivates me to succeed like an unforgettable, publicly
+exposed shame.
+
+While reading the book, I made a list of what, in my opinion, I need or want to know. It included:
+	* Computer memory and how it works
+	* Programming Language C and low-level programming
+	* Algorithms and data structures
+	* Assembly and Reverse engineering
+A lot, right? And only to understand the damn hacking book. But I felt it was the right
+way. Reading books on getting smarter, who would have thought...
+
+## The proper training: C Programming Language
+
+I started with ["Programming in C: A complete introduction to the C programming language" Stephen
+G. Kochan, Third Edition](https://github.com/volgk/programming_in_C). And I enjoyed solving
+problems. In the beginning, they were easy, but in the end, I spend weeks solving one of them. I know,
+I know, for someone, weeks can seem a too long time for such tasks. Keep in mind that, most likely, you
+are more experienced and smarter than me, so I can do that. The tasks were difficult for me, but I
+did not give up. My perseverance paid off with emotion when, finally, the decision illuminates me.
+I was happy with my little victory, jumping around the house chanting "Hurray, I did it!".
+
+When I finished the basic course, I imagined myself a guru in C. After so much effort, it couldn't
+be otherwise. Until I came across data structures and algorithms...
+(Astonished, desperate, doomed pause) my life won't be enough to figure this shit out...
+
+My friend says that I don't need to know all of them, only basic ones. Man, these basic ones are
+enough to kill me!
+But there is nothing to do, I still wanted (and now want), not just to do, but to do better. And for
+this, I need to dive deeper into data structures and algorithms. I started with "Grokking Algorithms"
+by Aditya Y. Bhargava. [Here](https://github.com/volgk/data_structures_in_C) are the structures
+I tried to implement.
