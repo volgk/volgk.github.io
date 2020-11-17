@@ -233,3 +233,61 @@ But there is nothing to do, I still wanted (and now want), not just to do, but t
 this, I need to dive deeper into data structures and algorithms. I started with "Grokking Algorithms"
 by Aditya Y. Bhargava. [Here](https://github.com/volgk/data_structures_in_C) are the structures
 I tried to implement.
+
+# Chapter V
+
+## Where will curiosity lead
+
+While reading a book on hacking, I came across a chapter on networks. Almost, immediately I was tired
+because I understood little. I opened a book about Networks for dummies and started reading.
+
+After the culture shock from knowing where the Internet comes from (hang the whole world with wires, wow!),
+I began to think about strange things. For example, how private and secure the Network is. After reading
+of criminal code of my country, I concluded that it is better to check my doubts on my
+Network. In particular, I was more interested in the Wi-Fi check because, more and more often, this
+is how we connect to the Internet.
+
+Together with my friend, we made a plan and divided tasks. First of all, it was necessary to find
+out what a Wi-Fi audit is. Secondly, we made a list of those items that, as we thought, are relevant to our
+modem and apply on home networks. The drop-out rate then began. We classified actions
+according to the tester's availability level:
+	* black - black box; the tester is offline, has no access, checks from outside.
+	* gray  - the tester has access to the network as a client
+	* white - the tester has administrative access to the host or router
+
+We decided to start from the worst scenario, which is the black box. The task was to increase our
+access level as high as possible by hacking. We needed to learn all the hacking
+methods, problems that may arise in the process, and their solution.
+
+Thanks to the magic of fingers and Wi-Fi cards, we were able to emulate different types of Wi-Fi and
+successfully hack them. If it was not possible to exploit, we found sniffed packets with wireless
+protocols on the Internet that we also cracked (PPTP, PPP, RADIUS ...). Also, knowing the 'love'
+of people for change and innovation, we checked those protocols that, in theory, are no longer used
+because of its security holes (LEAP, WEP).
+[Here](https://github.com/volgk/handy_scrips/tree/master/security) and
+[here](https://github.com/chinarulezzz/pentestuff) we saved a couple of useful scripts that helped
+us with this.
+
+And, the last but not least task, how can we protect ourselves from all this. After all, everything
+started for this! Not because we like to hack everything. Pff, of course not.
+
+All you need is a protocol without vulnerabilities; a good long name for Wi-Fi, with a bunch of
+different symbols; a solid password, as long as possible and as unobvious as possible, with numbers,
+special characters, and uppercase letters, but better hit the keyboard a few times and it will be
+perfect, but don't forget to remember the password; hide your wireless network!; then we
+continuously sniff the network for malicious packets like DEAUTH and set up an alarm when such
+packets appear. But a false alarm may occur, and one day you will ignore another one, and this time,
+there will be an intruder. So you better put the filter on IPs. But what about ARP spoof? Put a filter
+on MAC. What about MAC spoof, what about DHCPD spoof, and many other spoofings that lead to a
+Man-In-The-Middle attack, and then to leakage of personal data such as passwords!?
+
+When the eye began to twitch, I realize that I can't protect myself. It's the
+eternal struggle between the Weapon and the Shield. Only knowledge will help me.
+And the battle between intruders and defenders is won by the one who knows the vulnerabilities of
+particular network.
+
+All this leads me to the next question. Knowing the methods of hacking and protection, where is the
+point where you need to stop? After all, security, like hacking, has a human limit. At any point,
+the hacker fails because he loses interest in the target. And the defender can't put protection on
+all devices and all Networks. Also, depending on the value of the information, the protection
+changes. So how to known then to stop?
